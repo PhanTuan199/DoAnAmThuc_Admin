@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:id="@+id/edt_food_name"
+        android:hint="Tên món ăn"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:id="@+id/edt_food_price"
+        android:hint="Giá món ăn"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:hint="Mô tả"
+        android:id="@+id/edt_food_des"
+        android:layout_height="wrap_content"/>
+    <ImageView
+        android:id="@+id/img_food_image"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:scaleType="fitXY"
+        />
+
+</LinearLayout>

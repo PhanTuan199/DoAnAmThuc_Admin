@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_category">
+
+    <fragment
+        android:id="@+id/nav_category"
+        android:name="com.example.da_mientay_admin.ui.category.CategoryFragment"
+        android:label="@string/menu_category"
+        tools:layout="@layout/fragment_category" />
+
+    <fragment
+        android:id="@+id/nav_foodlist"
+        android:name="com.example.da_mientay_admin.ui.foodlist.FoodListFragment"
+        android:label="@string/menu_food"
+        tools:layout="@layout/fragment_food">
+
+        <action android:id="@+id/clearBack"
+        app:launchSingleTop="true"
+        app:popUpTo="@+id/nav_category"
+            app:popUpToInclusive="true"/>
+            />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_order"
+        android:name="com.example.da_mientay_admin.ui.slideshow.OrderFragment"
+        android:label="Trang đặt hàng"
+        tools:layout="@layout/fragment_order" />
+</navigation>

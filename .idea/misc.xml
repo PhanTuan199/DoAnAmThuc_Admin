@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22135416666666666" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.19010416666666666" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22135416666666666" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/drawable/ic_menu_camera.xml" value="0.22135416666666666" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/layout/activity_home.xml" value="0.20520833333333333" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/layout/activity_main.xml" value="0.19114583333333332" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/layout/activity_sigin.xml" value="0.22" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/layout/activity_size_addon.xml" value="0.22" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/layout/app_bar_home.xml" value="0.20520833333333333" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/layout/content_home.xml" value="0.20520833333333333" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/layout/fragment_category.xml" value="0.23229166666666667" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/layout/fragment_food.xml" value="0.2046875" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/layout/fragment_gallery.xml" value="0.20520833333333333" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/layout/fragment_home.xml" value="0.20520833333333333" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/layout/fragment_order.xml" value="0.2140625" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/layout/fragment_slideshow.xml" value="0.20520833333333333" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/layout/layout_category_item.xml" value="0.2140625" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/layout/layout_food_item.xml" value="0.2046875" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/layout/layout_order_item.xml" value="0.33" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/layout/layout_size_addon.xml" value="0.5" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/layout/layout_update_category.xml" value="0.20989583333333334" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/layout/layout_update_food.xml" value="0.25" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/layout/nav_header_home.xml" value="0.20260416666666667" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/menu/action_bar_menu.xml" value="0.20625" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/menu/activity_home_drawer.xml" value="0.22864583333333333" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/menu/addon_size_menu.xml" value="0.17135416666666667" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/menu/food_action_menu.xml" value="0.2015625" />
+        <entry key="..\:/DACS/DA_MienTay_Admin/app/src/main/res/menu/home.xml" value="0.20520833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
